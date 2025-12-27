@@ -1,1 +1,0 @@
-Investment thesis documents.
