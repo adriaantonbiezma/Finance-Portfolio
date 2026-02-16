@@ -8,4 +8,4 @@ Equity research project analyzing Hims & Hers Health as a potential investment o
 Evaluate whether HIMS offers attractive risk-reward based on growth potential and valuation assumptions.
 
 ## Author
-Adrián Antón Biezma and Classmates 
+Adrián Antón Biezma 
